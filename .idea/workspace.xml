@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3069bb5e-ec65-4eea-a992-98fb023cb9da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ci.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cu.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gp.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install_script.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pa.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pac.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pam.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pamfs.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pamr.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pams.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pas.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows-alias.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2T9kshqPXyxfAx7znT9DAP5gToa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/talha/Downloads/windows-alias",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3069bb5e-ec65-4eea-a992-98fb023cb9da" name="Changes" comment="" />
+      <created>1690462894972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690462894972</updated>
+      <workItem from="1690462895850" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
